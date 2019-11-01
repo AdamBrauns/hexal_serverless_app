@@ -72,3 +72,17 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Credits
+
+### YouTube
+
+https://www.youtube.com/watch?v=VGerk8hrP9U
+
+### GitHub (Starter Code)
+
+https://github.com/jspruance/hexal-serverless-starter
+
+### GitHub (Finished Code)
+
+https://github.com/jspruance/hexal-serverless-starter-complete
