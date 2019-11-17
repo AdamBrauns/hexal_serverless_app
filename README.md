@@ -77,7 +77,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ### YouTube
 
-https://www.youtube.com/watch?v=VGerk8hrP9U
+Part 1: https://www.youtube.com/watch?v=VGerk8hrP9U
+Part 2: https://www.youtube.com/watch?v=xJvfcg9dW4U
+Part 3: https://www.youtube.com/watch?v=T6V15INYZz0
 
 ### GitHub (Starter Code)
 
